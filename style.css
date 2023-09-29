@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+}
+/* nav css */
+.nav-content{
+    width: 84%;
+    margin: auto;
+}
+.nav-item a{
+    color: white;
+    font-size: 17px;
+    margin: 0px 18px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.nav-item a:hover{
+    color: white;
+    font-size: 17px;
+    margin: 0px 18px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+
+.nav-img{
+    height: 40px;
+    width: 150px;
+}
+
+/* header css */
+.main-header{
+    background-color: #0099e5;
+}
+.header-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header-content{
+    padding-top: 200px;
+    padding-bottom: 240px;
+}
+.header-text{
+    font-size: 60px;
+    font-weight: 400;
+
+}
+.sub-heading{
+    /* padding-left: 150px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* about us css  */ 
+.section-about{
+    padding-top: 80px;
+    padding-bottom: 60px;
+}
+
+.about-img{
+    height: 48px;
+    margin-bottom: 32px;
+}
+.about-text{
+    color: #608699;
+}
+.short-line{
+    width: 40px;
+    height: 2.4px;
+    margin: auto;
+    background-color: #0099e5;
+}
+/* TopH css  */
+.toph-section{
+    background-color: #e8f3f8b5;
+    padding: 100px 0px;
+}
+
+.toph-img{
+    height: 350px;
+    width: 100%;
+}
+
+/* More topH css  */
+.more-toph{
+    padding-top: 150px;
+    padding-bottom: 100px;
+}
+.more-toph-img{
+height: 280px;
+width: 76%;
+}
+.more-toph-work{
+    padding-top: 130px;
+}
+
+/* process css  */
+.process{
+    background-color: #0099e5;
+    padding: 100px 0px 170px 0px;
+}
+.process-line{
+    width: 32px;
+    height: 2.4px;
+    margin: auto;
+    background-color: white;
+}
+/* Team css  */
+.team{
+    padding: 80px 0px 80px 0px;
+}
+.team-head{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.team-sub-head{
+    color: #608699;
+    font-size: 20px;
+    padding-bottom: 40px;
+}
+.past-team{
+    color: #6086999e;
+}
+.hiring-team{
+    padding: 80px 0px;
+    background-color: #e8f3f8b5;
+}
+.hiring-text{
+    width: 85%;
+    margin: auto;
+}
+/* client css  */
+.client{
+    background-color: #0099e5;
+    padding: 80px 0px;
+}
+.client-img{
+    width: 216px;
+    height: 60px;
+    padding-bottom: 6px;
+} 
